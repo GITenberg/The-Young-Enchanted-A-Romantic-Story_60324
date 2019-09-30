@@ -1,0 +1,29 @@
+_repo: The-Young-Enchanted-A-Romantic-Story_60324
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walpole, Hugh
+    alias: Walpole, Sir Hugh
+    birthdate: 1884
+    deathdate: 1941
+    gutenberg_agent_id: '1207'
+    url: http://www.gutenberg.org/2009/agents/1207
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Walpole
+description: ''
+gutenberg_issued: '2019-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60324'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conflict of generations -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The Young Enchanted: A Romantic Story'
+url: http://www.gutenberg.org/ebooks/60324
